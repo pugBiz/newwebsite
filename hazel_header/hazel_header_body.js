@@ -1,0 +1,18 @@
+﻿document.write('<div class="C3afd58f1d4cd4242a3b2fd42b16041c5">');
+document.write('<div class="col-12">');
+document.write('<nav class="navbar_C1e11c464809340008655b8cc0080f49a navbar navbar-expand-lg">');
+document.write('<a class="navbar_C1e11c464809340008655b8cc0080f49a navbar-brand" href="#">Ember Coffee Roasters</a>');
+document.write('<button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar_C1e11c464809340008655b8cc0080f49a">');
+document.write('<span class="navbar-toggler-icon"></span>');
+document.write('</button>');
+document.write('<div id="navbar_C1e11c464809340008655b8cc0080f49a" class="collapse navbar-collapse">');
+document.write('<ul class="navbar-nav mx-auto">');
+document.write('<li class="navbar_C1e11c464809340008655b8cc0080f49a nav-item"><a class="navbar_C1e11c464809340008655b8cc0080f49a nav-link" href="#" target=_self>Coffee</a>');
+document.write('<li class="navbar_C1e11c464809340008655b8cc0080f49a nav-item"><a class="navbar_C1e11c464809340008655b8cc0080f49a nav-link" href="#" target=_self>Subscriptions</a>');
+document.write('<li class="navbar_C1e11c464809340008655b8cc0080f49a nav-item"><a class="navbar_C1e11c464809340008655b8cc0080f49a nav-link" href="#" target=_self>Brewing guides</a>');
+document.write('</ul>');
+document.write('</div>');
+document.write('</nav>');
+document.write('</div>');
+document.write('');
+document.write('</div>');
