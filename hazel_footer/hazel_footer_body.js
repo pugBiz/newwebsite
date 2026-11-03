@@ -1,9 +1,9 @@
 ﻿document.write('<div class="C371421a2f0724529a2355dc73ffe8ed3">');
 document.write('<div class="C1986ce0a64ee4ddc916c5225ab30bdc1">');
 document.write('<div style="text-align:left;">');
-document.write('<span style ="font-family:\'Noto Sans\'; font-size: 14pt;color:rgba(0,0,0,1);">Ember Coffee Roasters<br>');
+document.write('<span style ="font-family:\'Noto Sans\'; font-size: 14pt;color:rgba(0,0,0,1);">Riverside Summer Festival<br>');
 document.write(' </span><span style ="font-family:\'Noto Sans\'; font-size: 10.5pt;color:rgba(0,0,0,1);">[Your email] · [Your social media links]<br>');
-document.write(' Roasted in [your town]<br>');
+document.write(' See you by the river<br>');
 document.write('</span>');
 document.write('</div>');
 document.write('');

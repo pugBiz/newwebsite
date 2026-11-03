@@ -14,7 +14,7 @@ document.write('padding-left:10%;');
 document.write('padding-right:10%;');
 document.write('padding-top:40px;');
 document.write('padding-bottom:40px;');
-document.write('background-color:rgba(242,242,242,1);');
+document.write('background-color:rgba(219,222,222,1);');
 document.write('margin-left:0%;');
 document.write('margin-right:0%;');
 document.write('}');
